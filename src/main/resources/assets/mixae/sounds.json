@@ -1,0 +1,32 @@
+{
+  "item.scythe_slash_heavy": {
+    "sounds": [
+      "mixae:scythe_slash_heavy"
+    ],
+    "subtitle": "mixae.subtitles.item.scythe_slash_heavy"
+  },
+  "item.scythe_slash_light": {
+    "sounds": [
+      "mixae:scythe_slash_light"
+    ],
+    "subtitle": "mixae.subtitles.item.scythe_slash_light"
+  },
+  "item.dagger_slash": {
+    "sounds": [
+      "mixae:dagger_slash"
+    ],
+    "subtitle": "mixae.subtitles.item.dagger_slash"
+  },
+  "item.astral_drip_heavy": {
+    "sounds": [
+      "mixae:astral_drip_heavy"
+    ],
+    "subtitle": "mixae.subtitles.item.astral_drip_heavy"
+  },
+  "item.astral_drip_light": {
+    "sounds": [
+      "mixae:astral_drip_light"
+    ],
+    "subtitle": "mixae.subtitles.item.astral_drip_light"
+  }
+}

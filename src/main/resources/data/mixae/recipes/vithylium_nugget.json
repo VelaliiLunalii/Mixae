@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "item": "minecraft:amethyst_shard"
+  },
+  "base": {
+    "item": "minecraft:crying_obsidian"
+  },
+  "result": {
+    "item": "mixae:vithylium_nugget"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "item": "mixae:vithylium_ingot"
+  },
+  "base": {
+    "item": "mixae:golden_scythe"
+  },
+  "result": {
+    "item": "mixae:vithylium_scythe"
+  }
+}

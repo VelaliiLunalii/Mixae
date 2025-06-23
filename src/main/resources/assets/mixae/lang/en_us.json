@@ -1,0 +1,15 @@
+{
+  "item.mixae.vithylium_ingot": "Vithylium Ingot",
+  "item.mixae.vithylium_nugget": "Vithylium Nugget",
+  "item.mixae.golden_scythe": "Golden Scythe",
+  "item.mixae.vithylium_scythe": "Vithylium Scythe",
+  "item.mixae.golden_dagger": "Golden Dagger",
+  "item.mixae.vithylium_dagger": "Vithylium Dagger",
+  "item.mixae.falling_blossom": "Falling Blossom",
+
+  "mixae.subtitles.item.scythe_slash_heavy": "Heavy Scythe Slash",
+  "mixae.subtitles.item.scythe_slash_light": "Light Scythe Slash",
+  "mixae.subtitles.item.dagger_slash": "Dagger Slash",
+  "mixae.subtitles.item.astral_drip_heavy": "Astral Drip Heavy",
+  "mixae.subtitles.item.astral_drip_light": "Astral Drip Light"
+}

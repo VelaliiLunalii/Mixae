@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " CS",
+    "CIB",
+    "I  "
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:chorus_fruit"
+    },
+    "S": {
+      "tag": "minecraft:saplings"
+    },
+    "B": {
+      "item": "minecraft:spore_blossom"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "mixae:falling_blossom"
+  }
+}
